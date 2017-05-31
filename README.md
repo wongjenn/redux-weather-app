@@ -1,5 +1,7 @@
 # Redux Weather App
 
+Used react, redux, axios, lodash, sparklines and 2 apis: openweather and google maps.
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
